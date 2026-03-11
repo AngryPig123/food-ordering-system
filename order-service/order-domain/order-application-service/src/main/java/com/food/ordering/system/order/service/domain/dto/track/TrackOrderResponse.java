@@ -1,6 +1,6 @@
 package com.food.ordering.system.order.service.domain.dto.track;
 
-import com.food.ordering.system.valuobject.OrderStatus;
+import com.food.ordering.system.domain.valuobject.OrderStatus;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
